@@ -1,0 +1,8 @@
+Create Your Account on : 
+https://www.exchangerate-api.com/
+
+Then You Can generate you API Key 
+It will show your API key URL below Your API key as - Example Request
+
+Edit and Paste you API Key and API URL in the 
+config.py  and  api.py
